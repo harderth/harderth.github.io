@@ -1,17 +1,17 @@
 ---
-title: "Paper Title 2" 
-date: 2015-12-01
-tags: ["keyword 1","keyword 2","keyword 4"]
-author: ["Author Name 1", "Author Name 2"]
-description: "This paper shows other things. Published in Journal Name, 2015." 
-summary: "This paper shows other things using other techniques and different data." 
+title: "FitFone: Tracking Home Workout in Pandemic Times" 
+date: 2021-06-29
+tags: ["Mobile Human Activity Recognition", "Activity Tracking", "Pandemic", "Home Workout", "Smartphone", "Machine-Learning", "Neural Networks"]
+author: ["Denys J. C. Matthies", "Thorleif Harder", "Franz Bretterbauer", "Viktoria Ginter", "Horst Hellbrück"]
+description: "Global pandemics, such as COVID-19, significantly impact mental and physical well-being. Regular home workouts become more critical during these extraordinary times, as physical activity can positively impact our health. " 
+summary: "Global pandemics, such as COVID-19, significantly impact mental and physical well-being. Regular home workouts become more critical during these extraordinary times, as physical activity can positively impact our health. " 
 cover:
     image: "paper2.png"
     alt: "Image caption"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
+    URL: "https://doi.org/10.1145/3453892.3461334"
+    Text: "PETRA '21: Proceedings of the 14th PErvasive Technologies Related to Assistive Environments Conference"
 
 ---
 
@@ -20,14 +20,12 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/unemployment-gap)
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Global pandemics, such as COVID-19, significantly impact mental and physical well-being. Regular home workouts become more critical during these extraordinary times, as physical activity can positively impact our health. Having the ability to track workout progress motivates consistent home workout schedules. In this paper, we demonstrate two proof-of-concept implementations enabling the tracking of home workouts. First, we demonstrate exercise tracking when the user wears a smartphone relying on IMU data. Second, we show tracking when a doffed phone is placed in front of the user while relying on inaudible Doppler sensing.
 
 ---
 
@@ -39,23 +37,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Citation
 
-Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Denys J.C. Matthies, Thorleif Harder, Franz Bretterbauer, Viktoria Ginter, and Horst Hellbrück. 2021. FitFone: Tracking Home Workout in Pandemic Times. In Proceedings of the 14th PErvasive Technologies Related to Assistive Environments Conference (PETRA '21). Association for Computing Machinery, New York, NY, USA, 272–276. https://doi.org/10.1145/3453892.3461334
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
+@inproceedings{10.1145/3453892.3461334,
+author = {Matthies, Denys J.C. and Harder, Thorleif and Bretterbauer, Franz and Ginter, Viktoria and Hellbr\"{u}ck, Horst},
+title = {FitFone: Tracking Home Workout in Pandemic Times},
+year = {2021},
+isbn = {9781450387927},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3453892.3461334},
+doi = {10.1145/3453892.3461334},
+booktitle = {Proceedings of the 14th PErvasive Technologies Related to Assistive Environments Conference},
+pages = {272–276},
+numpages = {5},
+keywords = {Smartphone, Activity Tracking, Neural Networks, Pandemic, Mobile Human Activity Recognition, Home Workout, Machine-Learning},
+location = {Corfu, Greece},
+series = {PETRA '21}
+}
 ```
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-

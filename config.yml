@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://harderth.github.io" 
+title: Thorleif Harder
 paginate: 20
 theme: PaperMod
 
@@ -14,20 +14,16 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+      #  - name: Courses
+      #    url: courses/
+      #    weight: 2
+      #  - name: Data
+      #    url: data/
+      #    weight: 3 
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a **Research Associate** at the Institut of Interactive Systems at the **Technical University of Applied Sciences Lübeck**. My research focuses on human-computer interaction and human-centered design."
+    author: Thorleif Harder
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,42 +46,34 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
+          title: Thorleif Harder
+          subtitle: "I am a **Research Associate** at the Institut of Interactive Systems at the **Technical University of Applied Sciences Lübeck**. My research focuses on human-computer interaction and human-centered design. I am involved in various projects, including analyzing success and dropout factors in digital study programs and developing AI-based solutions to foster innovation in the economy."
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Thorleif Harder
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+          #  - name: Courses
+          #    url: courses/
+          #  - name: Data
+          #    url: data/
+          # - name: Tags
+          #    url: tags/
+          #  - name: Archive
+          #    url: archive/
     socialIcons:
-        - name: CV
-          url: cv.pdf
+      #  - name: CV
+      #    url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:thorleif.harder@th-luebeck.de
+      #  - name: Location
+      #    url: location/
+      #  - name: Office Hours
+      #    url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://scholar.google.com/citations?user=7dkt0CcAAAAJ&hl=de
         - name: Twitter
           url: https://twitter.com/pmichaillat
 
@@ -96,7 +84,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Thorleif Harder"
       icon: favicon.ico
       iconHeight: 18
 
