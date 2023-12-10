@@ -11,15 +11,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 1
-      #  - name: Courses
-      #    url: courses/
-      #    weight: 2
-      #  - name: Data
-      #    url: data/
-      #    weight: 3 
+        - name: Blog
+          url: blog/
+          weight: 2
+        - name: About me
+          url: about-me/
+          weight: 3
 
 params:
     description: "I am a **Research Associate** at the Institut of Interactive Systems at the **Technical University of Applied Sciences Lübeck**. My research focuses on human-computer interaction and human-centered design."
@@ -53,8 +53,8 @@ params:
           imageHeight: 160
           imageTitle: Thorleif Harder
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Publications
+              url: publications/
           #  - name: Courses
           #    url: courses/
           #  - name: Data
@@ -68,14 +68,15 @@ params:
       #    url: cv.pdf
         - name: Email
           url: mailto:thorleif.harder@th-luebeck.de
-      #  - name: Location
-      #    url: location/
-      #  - name: Office Hours
-      #    url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=7dkt0CcAAAAJ&hl=de
+          url: https://scholar.google.com/citations?user=7dkt0CcAAAAJ&hl=en
+        - name: orcid
+          url: https://orcid.org/0000-0002-9099-2351
         - name: Twitter
           url: https://twitter.com/thorleifharder
+        - name: Linkedin
+          url: https://www.linkedin.com/in/thorleif-harder-8981a2193/
+        
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
