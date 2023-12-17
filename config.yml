@@ -55,10 +55,10 @@ params:
           buttons:
             - name: Publications
               url: publications/
-          #  - name: Courses
-          #    url: courses/
-          #  - name: Data
-          #    url: data/
+            - name: Blog
+              url: blog/
+            - name: About me
+              url: about-me/
           # - name: Tags
           #    url: tags/
           #  - name: Archive
