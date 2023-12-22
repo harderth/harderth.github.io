@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Publications"
 description: ""
 ---
 
@@ -16,11 +16,15 @@ description: ""
 
 ### 2023
 
-- Drzyzga, G. und **Harder, T.** (2023). Student-Centered Development of an Online Learning Support Feedback Software Tool: A Design Study Approach. In *Proceedings of the 7th International Conference on Computer-Human Interaction Research and Applications* **[in press]**.
+- Drzyzga, G. und **Harder, T.** (2023). [A Three Level Design Study Approach to Develop a Student-Centered Learner Dashboard](https://link.springer.com/chapter/10.1007/978-3-031-49425-3_16). In *Proceedings of the 7th International Conference on Computer-Human Interaction Research and Applications*, pages 262-281.
 
-- Drzyzga, G., **Harder, T.** und Janneck, M. (2023). Participative Development of a Learning Dashboard for Online Students Using Traditional Design Concepts. In *Proceedings of the 7th International Conference on Computer-Human Interaction Research and Applications* **[in press]**.
+- Drzyzga, G., **Harder, T.** und Janneck, M. (2023). [Participative Development of a Learning Dashboard for Online Students Using Traditional Design Concepts](https://link.springer.com/chapter/10.1007/978-3-031-49368-3_11). In *Proceedings of the 7th International Conference on Computer-Human Interaction Research and Applications*, pages 176-191.
 
-- Drzyzga, G. and Harder, T. (2023). [User-Centered Design and Iterative Refinement: Promoting Student Learning with an Interactive Dashboard.](https://www.scitepress.org/Link.aspx?doi=10.5220/0012191300003584) In *Proceedings of the 19th International Conference on Web Information Systems and Technologies*, ISBN 978-989-758-672-9, ISSN 2184-3252, pages 340-346.
+- Drzyzga, G. and **Harder, T.** (2023). [User-Centered Design and Iterative Refinement: Promoting Student Learning with an Interactive Dashboard.](https://www.scitepress.org/Link.aspx?doi=10.5220/0012191300003584) In *Proceedings of the 19th International Conference on Web Information Systems and Technologies*, ISBN 978-989-758-672-9, ISSN 2184-3252, pages 340-346.
+
+- **Harder, T.** (2023). Selbstreflexion bei Online-Studierenden fördern: Implikationen einer quantitativen und qualitativen Befragungsstudie zur effektiven Gestaltung von Nudges. In *Gemeinschaften in Neuen Medien. Inklusiv Digital: Gemeinschaft offen gestalten*. **[in press]**
+
+
 
 ### 2022
 - Drzyzga, G. und **Harder, T.** (2022). [Student-centered Development of an Online Software Tool to Provide Learning Support Feedback: A Design-study Approach.](https://www.scitepress.org/Link.aspx?doi=10.5220/0011589100003323) In *Proceedings of the 6th International Conference on Computer-Human Interaction Research and Applications*, ISBN 978-989-758-609-5, ISSN 2184-3244, S. 244-248.
