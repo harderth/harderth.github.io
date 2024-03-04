@@ -36,6 +36,11 @@ description: ""
 15\. November 2023, 19th Internation Conference on Web Information Systems and Technologies [(WEBIST)](https://webist.scitevents.org/?y=2023) in Rom, Italy <br/>
 Paper: [User-Centered Design and Iterative Refinement: Promoting Student Learning with an Interactive Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012191300003584)
 
+**Candidate for the Best Poster Award**
+28\. February 2024, 8th International Conference on Human Computer Interaction Theory and Applications [(HUCAPP)](https://hucapp.scitevents.org/?y=2023) in Rom, Italy <br/>
+Paper: [Enhancing the User Interaction of Online Students: Analysis of an Interaction Concept for a Learner Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012374600003660)
+
+
 ## Teaching
 **SS2023** - **Digital Self-defence** <br>
 Instructor: Gilbert Drzyzga & Thorleif Harder

@@ -7,7 +7,7 @@ description: ""
 
 ### 2024
 
-- **Harder, T.** und Drzyzga, G. (2024). Enhancing the User Interaction of Online Students: Analysis of an Interaction Concept for a Learner Dashboard. In *Proceedings of the HUCAPP 2024, part of VISIGRAPP*, Rome, Italy, 27.-29. Februar. **[in press]**
+- **Harder, T.** und Drzyzga, G. (2024). [Enhancing the User Interaction of Online Students: Analysis of an Interaction Concept for a Learner Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012374600003660). In *Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 1: GRAPP, HUCAPP and IVAPP*, Rome, Italy, ISBN 978-989-758-679-8, ISSN 2184-4321, pages 471-479.
 
 
 - **Harder, T.** und Drzyzga, G. (2024). Perzeption und Präferenzen von Online-Studierenden zu Lernenden-Dashboards: Designelemente, Akzeptanz und ML-basierte Lernfortschrittsprognosen. In *Tagungsband der GMW2023: Integration und Ko-Kreation: Miteinander von Mensch und Maschine in Forschung und Bildung*, Jena, Deutschland. Waxmann. **[in press]**
@@ -20,7 +20,7 @@ description: ""
 
 - Drzyzga, G. and **Harder, T.** (2023). [User-Centered Design and Iterative Refinement: Promoting Student Learning with an Interactive Dashboard.](https://www.scitepress.org/Link.aspx?doi=10.5220/0012191300003584) In *Proceedings of the 19th International Conference on Web Information Systems and Technologies*, ISBN 978-989-758-672-9, ISSN 2184-3252, pages 340-346.
 
-- **Harder, T.** (2023). Selbstregulation bei Online-Studierenden fördern: Implikationen einer quantitativen und qualitativen Befragungsstudie zur effektiven Gestaltung von Nudges. In *Gemeinschaften in Neuen Medien. Inklusiv Digital: Gemeinschaft offen gestalten*. **[in press]**
+- **Harder, T.** (2023). [Selbstregulation bei Online-Studierenden fördern: Implikationen einer quantitativen und qualitativen Befragungsstudie zur effektiven Gestaltung von Nudges](https://doi.org/10.25368/2024.7). In *Gemeinschaften in Neuen Medien. Inklusiv Digital: Gemeinschaft offen gestalten*. S. 300 - 308.
 
 
 
