@@ -24,7 +24,7 @@ menu:
 params:
     description: "I am a **Research Associate** at the Institut of Interactive Systems at the **Technical University of Applied Sciences Lübeck**. My research focuses on human-computer interaction and human-centered design."
     author: Thorleif Harder
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-5L028S1FQK"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
