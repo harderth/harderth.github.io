@@ -1,6 +1,6 @@
 ---
 title: "Vom Master zum Doktor: Mein persönlicher Weg zum Promotionsverfahren" 
-date: 2023-12-10
+date: 2024-04-28
 tags: ["Promotion","Doktorarbeit"]
 author: ["Thorleif Harder"]
 description: ""
