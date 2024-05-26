@@ -9,7 +9,6 @@ description: ""
 
 - **Harder, T.** und Drzyzga, G. (2024). [Enhancing the User Interaction of Online Students: Analysis of an Interaction Concept for a Learner Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012374600003660). In *Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 1: GRAPP, HUCAPP and IVAPP*, Rome, Italy, ISBN 978-989-758-679-8, ISSN 2184-4321, pages 471-479.
 
-
 - **Harder, T.** und Drzyzga, G. (2024). Perzeption und Präferenzen von Online-Studierenden zu Lernenden-Dashboards: Designelemente, Akzeptanz und ML-basierte Lernfortschrittsprognosen. In *Tagungsband der GMW2023: Integration und Ko-Kreation: Miteinander von Mensch und Maschine in Forschung und Bildung*, Jena, Deutschland. Waxmann. **[in press]**
 
 ### 2023

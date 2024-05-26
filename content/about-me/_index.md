@@ -37,7 +37,7 @@ description: ""
 Paper: [Enhancing the User Interaction of Online Students: Analysis of an Interaction Concept for a Learner Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012374600003660)
 
 **Honorable Mention** <br/>
-15\. November 2023, 19th Internation Conference on Web Information Systems and Technologies [(WEBIST)](https://webist.scitevents.org/?y=2023) in Rom, Italy <br/>
+15\. November 2023, 19th International Conference on Web Information Systems and Technologies [(WEBIST)](https://webist.scitevents.org/?y=2023) in Rom, Italy <br/>
 Paper: [User-Centered Design and Iterative Refinement: Promoting Student Learning with an Interactive Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012191300003584)
 
 ## Teaching
