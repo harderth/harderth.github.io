@@ -60,7 +60,7 @@ Am Ende meines Einkaufs wurde mir bewusst, wie spannend es ist, dass schon klein
 Im Fall von Rossmann ließe sich Nudging theoretisch einsetzen, um Kunden dazu zu bringen, umweltfreundlichere Entscheidungen zu treffen, wie etwa auf den Ausdruck eines Kassenbons zu verzichten. Diese kleinen Veränderungen könnten zwar minimal erscheinen, könnten aber in ihrer Gesamtheit einen positiven Effekt haben, indem sie dazu beitragen, den Papierverbrauch zu reduzieren und somit nachhaltigere Praktiken zu fördern.
 
 ![](Final.png)
-#### Abbildung 3: Vergleichsgrafik: Eine Vorher-Nachher-Darstellung zeigt links die gleichwertigen Buttons des aktuellen Designs und rechts die angepassten Buttons, bei denen der “Kein Bon”-Button hervorgehoben wurde.*
+#### Abbildung 3: Diese Vorher-Nachher-Darstellung zeigt links die gleichwertigen Buttons des aktuellen Designs und rechts die angepassten Buttons, bei denen der “Kein Bon”-Button hervorgehoben und die Positionierung angepasst wurde.*
 
 Zudem ist auch hier nochmal anzumerken, dass kein rechtlicher Check vorgenommen wurde. Es könnte durchaus sein, dass mögliche entscheidungsunterstützende Maßnahmen in dieser Branche rechtlich nicht zulässig sind oder bestimmten Vorschriften unterliegen. Daher müsste vor der Umsetzung solcher Konzepte eine entsprechende rechtliche Prüfung erfolgen.
 
