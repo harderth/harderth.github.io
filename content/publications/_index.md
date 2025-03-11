@@ -5,6 +5,10 @@ description: ""
 
 # Publications
 
+### 2025
+
+**Harder, T.**, Drzyzga, G., Bruhns, JM. und Langhans, AL. (2025). [Systematic Integration of Design Prototypes into the LMS Moodle: Methods and Challenges in Practice.](https://link.springer.com/chapter/10.1007/978-3-031-82633-7_1) In: Plácido da Silva, H., Cipresso, P. (eds) Computer-Human Interaction Research and Applications. CHIRA 2024. Communications in Computer and Information Science, vol 2370. Springer, Cham. https://doi.org/10.1007/978-3-031-82633-7_1
+
 ### 2024
 
 - **Harder, T.** und Janneck, M. (2024). [Digital Nudging in Online-Learning Environments: Enhancing Self-regulation and Decision Through Usability-Centric Design.](https://link.springer.com/chapter/10.1007/978-3-031-61672-3_1) In: Zaphiris, P., Ioannou, A. (eds) Learning and Collaboration Technologies. HCII 2024. Lecture Notes in Computer Science, vol 14722. Springer, Cham. https://doi.org/10.1007/978-3-031-61672-3_1
