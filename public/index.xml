@@ -1,73 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Prof. Name</title>
-    <link>https://pascalmichaillat.org/hugo-website/</link>
-    <description>Recent content on Prof. Name</description>
+    <title>Thorleif Harder</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Thorleif Harder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dataset Title</title>
-      <link>https://pascalmichaillat.org/hugo-website/data/data1/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <title>Erfolgreiche Zulassungsvoraussetzung zur Promotion: Warum der Weg nicht für alle gleich ist</title>
+      <link>http://localhost:1313/blog/zulassungsvoraussetzung-promotion/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
-      <description>This dataset contains things.</description>
+      <guid>http://localhost:1313/blog/zulassungsvoraussetzung-promotion/</guid>
+      <description>&lt;p&gt;Es ist endlich geschehen. Der Promotionsrat der Universität, an der ich promovieren möchte, hat kürzlich die &lt;em&gt;&amp;ldquo;Prüfung der Zulassungsvoraussetzung &lt;strong&gt;meiner&lt;/strong&gt; Promotion&amp;rdquo;&lt;/em&gt; stattgegeben. Man stelle sich vor: Es haben sich meine Betreuungsperson der Universität, eine unabhängige professorale Person aus dem Promotionsgebiet und die Leitung des Promotionszentrums zusammengesetzt und darüber entschieden, ob ich als Person &lt;em&gt;(Noten + wissenschaftliche Kenntnisse + Promotionsthema)&lt;/em&gt; die Zulassungsbefähigung zur Promotion im Sektor Informatik/Technik habe. Das klingt für manche Personen, die bereits an einer Universität promovieren oder gar arbeiten, total banal. Für wissenschaftliche Mitarbeiter an einer HAW hingegen müssen allerdings zunächst einige Hürden gemeistert werden, damit der kooperativen Promotion stattgegeben werden kann. In diesem &lt;a href=&#34;https://harderth.github.io/blog/master-zum-doktor/master-zum-doktor/&#34; target=&#34;_blank&#34;&gt;Beitrag&lt;/a&gt;
+ erkläre ich kurz, wieso es bei meiner Promotion einige Hürden gibt, die es bei manchen Doktoranden potenziell nicht geben wird.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wie Nudging und Framing das Verhalten beim Self-Checkout nachhaltig beeinflussen könnten</title>
+      <link>http://localhost:1313/blog/selfcheckout-nudging/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/selfcheckout-nudging/</guid>
+      <description>&lt;p&gt;Gestern Nachmittag konnte ich eine interessante Beobachtung machen. Meine Freundin und ich waren in meiner Heimat einkaufen, unter anderem auch im Drogeriemarkt &lt;strong&gt;Rossmann&lt;/strong&gt;. Nachdem wir einige Produkte ausgewählt hatten, entschieden wir uns für den Self-Checkout, um schneller durch die Kasse zu kommen. Dabei fiel mir etwas auf, das mich zum Nachdenken brachte&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Nachdem wir unsere Einkäufe bezahlt hatten, stellte uns das Self-Checkout-System eine einfache Frage: &lt;em&gt;Benötigst du einen Kassenbon?&lt;/em&gt; Mein erster, fast reflexartiger Gedanke war: &lt;em&gt;“Komme ich ohne Kassenbon überhaupt aus dem Laden?”&lt;/em&gt; Schließlich gibt es in manchen Supermärkten Systeme, bei denen der Kassenbon als Beleg dafür dient, dass die Waren bezahlt wurden – ohne diesen Beleg kann man den Laden nicht verlassen. Bei Rossmann jedoch gibt es kein solches System. Der Kassenbon wird also nicht unbedingt benötigt.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Submission rejected: Und was nun?</title>
+      <link>http://localhost:1313/blog/submission-rejected/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/submission-rejected/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Angst vor dem Review?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ideen, wie man damit umgehen kann: Filtern und Priorisieren&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jedes Review bringt dich weiter an das Ziel ein guter Wissenschaftler zu sein&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smart Shuffle: Kleine Änderung, großer Effekt!</title>
+      <link>http://localhost:1313/blog/aktivierung-smart-shuffle/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/aktivierung-smart-shuffle/</guid>
+      <description>&lt;p&gt;Heute ist mir auf einer längeren Autofahrt etwas sehr Interessantes aufgefallen. Ich fuhr ganz entspannt von Lübeck nach Kiel und hatte auf Spotify die Playlist „Lieblingssongs“ laufen. Soweit, so unspektakulär. Das Spannende an dieser Playlist (und an selbst zusammengestellten) ist jedoch, dass man über den Button „Zufällige Reihenfolge“ nicht nur die Titel zufällig anhören kann, sondern dass Spotify auch die „Smart Shuffle“-Funktion anbietet. Diese Funktion ermöglicht es, dass Empfehlungen von Songs zu favorisierten Interpreten angezeigt werden. Ein Beispiel hierfür ist, wenn zuvor ein Lied von Metallica in der jeweiligen Playlist gespeichert wurde, ist die Wahrscheinlichkeit hoch, dass demnächst ein Heavy-Metal-Song folgt. In diesem &lt;a href=&#34;https://youtu.be/z5Q0fQbLFyg?si=RhAR2AxumDHOtNXZ&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;
+ wird die Funktion noch einmal im Detail erklärt.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vom Master zum Doktor: Mein persönlicher Weg zum Promotionsverfahren</title>
+      <link>http://localhost:1313/blog/master-zum-doktor/master-zum-doktor/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/master-zum-doktor/master-zum-doktor/</guid>
+      <description>&lt;p&gt;Wie wäre es wohl, wenn ich eine Doktorarbeit schreibe? Aber ich? Nein, so weit bin ich doch noch gar nicht&amp;hellip; Ich habe doch gefühlt gerade erst meinen Master abgeschlossen… Bin ich überhaupt gut genug ein solches Verfahren anzutreten, geschweige den ganzen Prozess erfolgreich durchzustehen? Laut der Studienordnung meines Master Studiums scheinbar schon. Dort heißt es beim § 4, Absatz 4 der Studienordnung des Studiengangs &lt;em&gt;Medieninformatik Master&lt;/em&gt; der Technischen Hochschule Lübeck:&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Course Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
+      <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
+      <guid>http://localhost:1313/courses/course1/</guid>
       <description>This graduate course presents things.</description>
     </item>
     
     <item>
-      <title>Course Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Nutzerzentrierte Entwicklung und Evaluation eines visuellen Kompetenzrasters für digitale Lernangebote</title>
+      <link>http://localhost:1313/publications2/paper1/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
-      <description>This undergraduate course presents many new things.</description>
+      <guid>http://localhost:1313/publications2/paper1/</guid>
+      <description>Die zukünftige Arbeitswelt wird durch die ständig wachsenden digitalen Informationen und Abläufe verändert. Anerkannte Berufsbilder verändern sich und erhalten neue Anforderungsprofle (vgl. Rettig, 2020).</description>
     </item>
     
     <item>
-      <title>Paper Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <title>FitFone: Tracking Home Workout in Pandemic Times</title>
+      <link>http://localhost:1313/publications2/paper2/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
-    </item>
-    
-    <item>
-      <title>Paper Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
-      <description>This paper shows things. Published in Journal Name, 2012.</description>
+      <guid>http://localhost:1313/publications2/paper2/</guid>
+      <description>Global pandemics, such as COVID-19, significantly impact mental and physical well-being. Regular home workouts become more critical during these extraordinary times, as physical activity can positively impact our health. </description>
     </item>
     
     
     <item>
       <title>Location</title>
-      <link>https://pascalmichaillat.org/hugo-website/location/</link>
+      <link>http://localhost:1313/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/location/</guid>
+      <guid>http://localhost:1313/location/</guid>
       <description>Mailing and office addresses at the University of Place.</description>
     </item>
     
     <item>
       <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/hugo-website/officehours/</link>
+      <link>http://localhost:1313/officehours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/officehours/</guid>
+      <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for office hours.</description>
     </item>
     

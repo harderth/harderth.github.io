@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Neural Networks on Thorleif Harder</title>
+    <link>http://localhost:1313/tags/neural-networks/</link>
+    <description>Recent content in Neural Networks on Thorleif Harder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FitFone: Tracking Home Workout in Pandemic Times</title>
+      <link>http://localhost:1313/publications2/paper2/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications2/paper2/</guid>
+      <description>Global pandemics, such as COVID-19, significantly impact mental and physical well-being. Regular home workouts become more critical during these extraordinary times, as physical activity can positively impact our health. </description>
+    </item>
+    
+  </channel>
+</rss>

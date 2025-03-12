@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spotify on Thorleif Harder</title>
+    <link>http://localhost:1313/tags/spotify/</link>
+    <description>Recent content in Spotify on Thorleif Harder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Shuffle: Kleine Änderung, großer Effekt!</title>
+      <link>http://localhost:1313/blog/aktivierung-smart-shuffle/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/aktivierung-smart-shuffle/</guid>
+      <description>&lt;p&gt;Heute ist mir auf einer längeren Autofahrt etwas sehr Interessantes aufgefallen. Ich fuhr ganz entspannt von Lübeck nach Kiel und hatte auf Spotify die Playlist „Lieblingssongs“ laufen. Soweit, so unspektakulär. Das Spannende an dieser Playlist (und an selbst zusammengestellten) ist jedoch, dass man über den Button „Zufällige Reihenfolge“ nicht nur die Titel zufällig anhören kann, sondern dass Spotify auch die „Smart Shuffle“-Funktion anbietet. Diese Funktion ermöglicht es, dass Empfehlungen von Songs zu favorisierten Interpreten angezeigt werden. Ein Beispiel hierfür ist, wenn zuvor ein Lied von Metallica in der jeweiligen Playlist gespeichert wurde, ist die Wahrscheinlichkeit hoch, dass demnächst ein Heavy-Metal-Song folgt. In diesem &lt;a href=&#34;https://youtu.be/z5Q0fQbLFyg?si=RhAR2AxumDHOtNXZ&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;
+ wird die Funktion noch einmal im Detail erklärt.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nachhaltigkeit on Thorleif Harder</title>
+    <link>http://localhost:1313/tags/nachhaltigkeit/</link>
+    <description>Recent content in Nachhaltigkeit on Thorleif Harder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nachhaltigkeit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie Nudging und Framing das Verhalten beim Self-Checkout nachhaltig beeinflussen könnten</title>
+      <link>http://localhost:1313/blog/selfcheckout-nudging/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/selfcheckout-nudging/</guid>
+      <description>&lt;p&gt;Gestern Nachmittag konnte ich eine interessante Beobachtung machen. Meine Freundin und ich waren in meiner Heimat einkaufen, unter anderem auch im Drogeriemarkt &lt;strong&gt;Rossmann&lt;/strong&gt;. Nachdem wir einige Produkte ausgewählt hatten, entschieden wir uns für den Self-Checkout, um schneller durch die Kasse zu kommen. Dabei fiel mir etwas auf, das mich zum Nachdenken brachte&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Nachdem wir unsere Einkäufe bezahlt hatten, stellte uns das Self-Checkout-System eine einfache Frage: &lt;em&gt;Benötigst du einen Kassenbon?&lt;/em&gt; Mein erster, fast reflexartiger Gedanke war: &lt;em&gt;“Komme ich ohne Kassenbon überhaupt aus dem Laden?”&lt;/em&gt; Schließlich gibt es in manchen Supermärkten Systeme, bei denen der Kassenbon als Beleg dafür dient, dass die Waren bezahlt wurden – ohne diesen Beleg kann man den Laden nicht verlassen. Bei Rossmann jedoch gibt es kein solches System. Der Kassenbon wird also nicht unbedingt benötigt.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
