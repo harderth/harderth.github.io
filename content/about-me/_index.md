@@ -47,6 +47,9 @@ Paper: [Enhancing the User Interaction of Online Students: Analysis of an Intera
 15\. November 2023, 19th International Conference on Web Information Systems and Technologies [(WEBIST)](https://webist.scitevents.org/?y=2023) in Rome, Italy <br/>
 Paper: [User-Centered Design and Iterative Refinement: Promoting Student Learning with an Interactive Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012191300003584)
 
+## Reviewer
+2025 - Reviewer for the [18th International Conference on Wirtschaftsinformatik (WI2025)](https://www.wi2025.de/)
+
 ## Teaching
 **SS2025** - **Design Research: Methods and Scenarios** <br>
 Instructor: Thorleif Harder
