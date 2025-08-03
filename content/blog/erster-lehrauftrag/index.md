@@ -12,7 +12,7 @@ disableAnchoredHeadings: false
 
 # Mein erster Lehrauftrag als Doktorand
 
-Mein erster Semester als Lehrbeauftragt neigt sich so langsam dem Ende und ich dachte, ich fasse mal ein paar Worte zu dieser spannenden Zeit zusammen. Eventuell gibt es ja die/den ein*e oder andere Person, die meine Gedanken teilt bzw. etwas daraus mitnehmen kann. Außerdem ist das als Doktorand an einer Technischen Hochschule vielleicht etwas anders, als an Universitäten.
+Mein erstes Semester als Lehrbeauftragt neigt sich so langsam dem Ende und ich dachte, ich fasse mal ein paar Worte zu dieser spannenden Zeit zusammen. Eventuell gibt es ja die/den ein*e oder andere Person, die meine Gedanken teilt bzw. etwas daraus mitnehmen kann. Außerdem ist das als Doktorand an einer Technischen Hochschule vielleicht etwas anders, als an Universitäten.
 
 Gerade weil mein Lehrauftrag recht kurzfristig zustande kam, war vieles für mich „Learning by Doing“. Das war herausfordernd, aber auch unglaublich lehrreich. In diesem Beitrag möchte ich ein paar Einblicke geben, wie ich den Sprung ins kalte Wasser erlebt habe, fachlich, organisatorisch und auch auf der persönlichen Ebene.
 
