@@ -1,7 +1,7 @@
 ---
 title: "Digital Nudging in Browser Setup: Why Defaults Are More Than Just Convenience"
 date: 2025-12-05
-tags: ["Digital Nudging", "UX Design", "Browser Settings"]
+tags: ["Digital Nudging", "UX Design", "Browser Settings", "Sustainabilty"]
 author: ["Thorleif Harder"]
 description: ""
 summary: ""
