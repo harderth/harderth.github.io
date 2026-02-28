@@ -6,7 +6,36 @@
     <description>Recent content in Blog on Thorleif Harder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zwei Jahre Promotion: Zwischen Erfolg und Ernüchterung</title>
+      <link>http://localhost:1313/blog/ein-jahr-promotion/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ein-jahr-promotion/</guid>
+      <description>&lt;p&gt;Mittlerweile ist es schon über ein Jahr her, seit ich von meiner erfolgreichen &lt;a href=&#34;https://harderth.github.io/blog/zulassungsvoraussetzung-promotion/&#34; target=&#34;_blank&#34;&gt;Zulassung zur Promotion&lt;/a&gt;
+ berichtet habe. Und in dieser Zeit ist wirklich verdammt viel passiert. Noch im Dezember 2024 hatte ich davon erzählt, dass ich im Sommersemester 2025 meine erste großangelegte Studie starten möchte und mittlerweile kann ich &lt;em&gt;(jedenfalls so inoffiziell)&lt;/em&gt; verkünden, dass diese sehr erkenntnisreich war und sogar an einer internationalen Konferenz angenommen wurde. Ende April darf ich nach Bergen (Norwegen) fliegen und die Ergebnisse einem Fachpublikum vorstellen, was mir schon beim bloßen Gedanken ziemliche Angst bereitet. Es ist eben immer noch ein riesiger Unterschied, einen Beitrag nachts in seinem Kämmerchen zu schreiben und diesen dann später vor Expert:innen zu präsentieren und zu diskutieren.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Nudging in Browser Setup: Why Defaults Are More Than Just Convenience</title>
+      <link>http://localhost:1313/blog/browser-setup-nudging/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/browser-setup-nudging/</guid>
+      <description>&lt;p&gt;I recently had to change my browser, which probably doesn&amp;rsquo;t sound very exciting to many people. The Arc browser, my previous companion, has not been actively developed since May 2025. The company behind it is now focusing entirely on its new AI browser, Dia. Like many former Arc users who don&amp;rsquo;t yet want to use an AI browser, I switched to Zen Browser, an open source project based on Firefox that has adopted Arc&amp;rsquo;s UI almost 1-to-1. Zen is still a niche product with around 9 million downloads on GitHub, a tiny percentage compared to the billions of Chrome installations. But that&amp;rsquo;s what makes it so interesting as a case study.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mein erster Lehrauftrag als Doktorand</title>
+      <link>http://localhost:1313/blog/erster-lehrauftrag/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/erster-lehrauftrag/</guid>
+      <description>&lt;p&gt;Mein erstes Semester als Lehrbeauftragter neigt sich so langsam dem Ende zu und ich dachte, ich fasse mal ein paar Worte zu dieser spannenden Zeit zusammen. Eventuell gibt es ja die/den ein*e oder andere Person, die meine Gedanken teilt bzw. etwas daraus mitnehmen kann. Außerdem ist das als Doktorand an einer Technischen Hochschule vielleicht etwas anders, als an Universitäten.&lt;/p&gt;
+&lt;p&gt;Gerade weil mein Lehrauftrag recht kurzfristig zustande kam, war vieles für mich „Learning by Doing“. Das war herausfordernd, aber auch unglaublich lehrreich. In diesem Beitrag möchte ich ein paar Einblicke geben, wie ich den Sprung ins kalte Wasser erlebt habe, fachlich, organisatorisch und auch auf der persönlichen Ebene.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Erfolgreiche Zulassungsvoraussetzung zur Promotion: Warum der Weg nicht für alle gleich ist</title>
       <link>http://localhost:1313/blog/zulassungsvoraussetzung-promotion/</link>

@@ -30,6 +30,8 @@
   </div>
   {{- end }}
 
+  {{- partial "author_banner.html" . }}
+
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">

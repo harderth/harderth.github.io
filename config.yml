@@ -1,6 +1,7 @@
 baseURL: "https://harderth.github.io" 
 title: Thorleif Harder
-paginate: 20
+pagination:
+    pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -48,7 +49,7 @@ params:
           enabled: true
           title: Thorleif Harder
           subtitle: "I am a **Research Associate** at the Institut of Interactive Systems at the **Technical University of Applied Sciences Lübeck** and a **PhD candidate** at the **University of Lübeck**, focusing on digital learning environments and behavioral interventions. My research centers on human-computer interaction and human-centered design, particularly in intelligent learning management systems. I am involved in various projects, including developing AI-based solutions to foster innovation in the economy."
-          imageUrl: "picture.jpg"
+          imageUrl: "author.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Thorleif Harder

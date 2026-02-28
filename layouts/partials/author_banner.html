@@ -1,0 +1,14 @@
+<div class="author-banner">
+  <img class="author-banner__avatar" src="/author.jpg" alt="{{ site.Params.author }}" />
+  <div class="author-banner__info">
+    <a class="author-banner__name" href="/">{{ site.Params.author }}</a>
+    <p class="author-banner__bio">Research Associate @ TH Lübeck<br>PhD Candidate @ Uni Lübeck</p>
+    <div class="author-banner__social">
+      {{- range site.Params.socialIcons }}
+      <a href="{{ trim .url " " }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
+        {{ partial "svg.html" . }}
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</div>
