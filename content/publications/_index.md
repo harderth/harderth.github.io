@@ -5,6 +5,10 @@ description: ""
 
 # Publications
 
+### 2026
+
+- **Harder, T.**, Janneck, M. und Madany Mamlouk, A. (2026). [Understanding and Supporting STEM Students Through Digital Nudging: Evidence-Based Requirements for Learning Analytics Interventions.](https://doi.org/10.1145/3785022.3785045) In: *Proceedings of the LAK26: 16th International Learning Analytics and Knowledge Conference (LAK ’26)*. Association for Computing Machinery, New York, NY, USA, 171–181. https://doi.org/10.1145/3785022.3785045
+
 ### 2025
 
 - **Harder, T.**, Drzyzga, G., Bruhns, JM. und Langhans, AL. (2025). [Systematic Integration of Design Prototypes into the LMS Moodle: Methods and Challenges in Practice.](https://link.springer.com/chapter/10.1007/978-3-031-82633-7_1) In: Plácido da Silva, H., Cipresso, P. (eds) Computer-Human Interaction Research and Applications. CHIRA 2024. Communications in Computer and Information Science, vol 2370. Springer, Cham. https://doi.org/10.1007/978-3-031-82633-7_1

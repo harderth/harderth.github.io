@@ -58,4 +58,4 @@ Paper: [User-Centered Design and Iterative Refinement: Promoting Student Learnin
 Instructor: Thorleif Harder
 
 **SS2023** - **Digital Self-defence** <br>
-Instructor: Gilbert Drzyzga & Thorleif Harder
+Co-Instructor: Thorleif Harder
