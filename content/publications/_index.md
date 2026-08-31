@@ -7,6 +7,8 @@ description: ""
 
 ### 2026
 
+- **Harder, T.**, Ostrau, S. und Janneck, M. (2026). [Trust-Aware Nudge Design in Higher Education: A Qualitative Study.](https://doi.org/10.1007/978-3-032-30781-1_6) In: Smith, B.K., Borge, M. (eds) *Learning and Collaboration Technologies. HCII 2026. Lecture Notes in Computer Science*, vol 16732. Springer, Cham, 91–105. https://doi.org/10.1007/978-3-032-30781-1_6
+
 - **Harder, T.**, Janneck, M. und Madany Mamlouk, A. (2026). [Understanding and Supporting STEM Students Through Digital Nudging: Evidence-Based Requirements for Learning Analytics Interventions.](https://doi.org/10.1145/3785022.3785045) In: *Proceedings of the LAK26: 16th International Learning Analytics and Knowledge Conference (LAK ’26)*. Association for Computing Machinery, New York, NY, USA, 171–181. https://doi.org/10.1145/3785022.3785045
 
 ### 2025
@@ -18,6 +20,8 @@ description: ""
 ### 2024
 
 - **Harder, T.** und Janneck, M. (2024). [Digital Nudging in Online-Learning Environments: Enhancing Self-regulation and Decision Through Usability-Centric Design.](https://link.springer.com/chapter/10.1007/978-3-031-61672-3_1) In: Zaphiris, P., Ioannou, A. (eds) Learning and Collaboration Technologies. HCII 2024. Lecture Notes in Computer Science, vol 14722. Springer, Cham. https://doi.org/10.1007/978-3-031-61672-3_1
+
+- Drzyzga, G. und **Harder, T.** (2024). [From Low Fidelity to High Fidelity Prototypes: How to Integrate Two Eye Tracking Studies into an Iterative Design Process for a Better User Experience.](https://www.scitepress.org/Link.aspx?doi=10.5220/0012854900003753) In *Proceedings of the 19th International Conference on Software Technologies - ICSOFT*, Dijon, France, pages 485-491. https://doi.org/10.5220/0012854900003753
 
 - **Harder, T.** und Drzyzga, G. (2024). [Enhancing the User Interaction of Online Students: Analysis of an Interaction Concept for a Learner Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012374600003660). In *Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 1: GRAPP, HUCAPP and IVAPP*, Rome, Italy, ISBN 978-989-758-679-8, ISSN 2184-4321, pages 471-479.
 
