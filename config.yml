@@ -15,12 +15,15 @@ menu:
         - name: Publications
           url: publications/
           weight: 1
+        - name: Talks
+          url: talks/
+          weight: 2
         - name: Blog
           url: blog/
-          weight: 2
+          weight: 3
         - name: About me
           url: about-me/
-          weight: 3
+          weight: 4
 
 params:
     description: "I am a **Research Associate** at the Institut of Interactive Systems at the **Technical University of Applied Sciences Lübeck**. My research focuses on human-computer interaction and human-centered design."
