@@ -48,10 +48,11 @@ Paper: [Enhancing the User Interaction of Online Students: Analysis of an Intera
 Paper: [User-Centered Design and Iterative Refinement: Promoting Student Learning with an Interactive Dashboard](https://www.scitepress.org/Link.aspx?doi=10.5220/0012191300003584)
 
 ## Reviewer
-2025 - Reviewer for the [20th International Conference on Wirtschaftsinformatik](https://www.wi2025.de/)<br/>
-2025 - Reviewer for i-com: [Journal of Interactive Media](https://www.degruyterbrill.com/journal/key/icom/html)<br/>
 2026 - Reviewer for the [IEEE German Education Conference](https://r8.ieee.org/germany-education/german-education-conference/)<br/>
 2026 - Reviewer for the [21th International Conference on Wirtschaftsinformatik](https://wi2026.at/)<br/>
+2025 - Reviewer for the [20th International Conference on Wirtschaftsinformatik](https://www.wi2025.de/)<br/>
+2025 - Reviewer for i-com: [Journal of Interactive Media](https://www.degruyterbrill.com/journal/key/icom/html)<br/>
+
 
 ## Teaching
 **SS2025** - **Design Research: Methods and Scenarios** <br>
